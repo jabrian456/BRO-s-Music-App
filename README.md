@@ -45,7 +45,7 @@ Song Selection Screen.
 Allows user to be able to choose their desired song, artist, genre of preference and begin listening and interacting with others.
 Settings Screen
 Lets people change language, and app notification settings.
-3. Navigation
+#3. Navigation
 Tab Navigation (Tab to Screen)
 
 # Music selection
@@ -55,3 +55,20 @@ Optional:
 
 Music/Encounter Queue
 Discover (Top Choices)
+Navigation
+Tab Navigation (Tab to Screen)
+
+Music selection
+Profile
+Settings
+Optional:
+
+Music/Encounter Queue
+Discover (Top Choices)
+Flow Navigation (Screen to Screen)
+
+Forced Log-in -> Account creation if no log in is available
+Music Selection (Or Queue if Optional) -> Jumps to Chat
+Profile -> Text field to be modified.
+Settings -> Toggle settings
+
